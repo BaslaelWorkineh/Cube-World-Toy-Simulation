@@ -1,6 +1,6 @@
 # Cube-World-Toy-Simulation
 
-A fun SDL2-based Cube world ol toy simulation featuring animated stickmen in multiple windows.(Not-Complete)
+A fun SDL2-based toy simulation featuring animated stickmen in multiple windows. Stickmen can animate, blink, sway, and interact when windows are docked together. The project demonstrates basic animation, window management, and pixel art rendering in C++ using SDL2.
 
 ## Features
 - Animated stickman with hands and multiple poses
@@ -26,9 +26,11 @@ A fun SDL2-based Cube world ol toy simulation featuring animated stickmen in mul
 ## Controls
 - Close any window to exit the simulation.
 - Move windows close together to see the docking animation.
+## Current state
+![Current](images/image.png)
 
-## Screenshot
-![Screenshot](image.png)
+## Goal I want to simulate
+![Goal](images/cubeworld.jpg)
 
 ## License
 See [LICENSE](LICENSE).
